@@ -1,7 +1,13 @@
 import type { NextConfig } from "next";
 
+const isProd = process.env.NODE_ENV === 'production';
+const repoName = '/sukiscroll-store'; // nombre de tu repo en GitHub
+
 const nextConfig: NextConfig = {
   reactStrictMode: true,
+  output: 'export', // para next export
+  basePath: isProd ? repoName : '',
+  assetPrefix: isProd ? repoName + '/' : '',
   images: {
     remotePatterns: [
       {
