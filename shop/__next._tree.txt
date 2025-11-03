@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[4431,[],"ViewportBoundary"]
+4:I[4431,[],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[622,[],"IconMark"]
+:HL["/sukiscroll-store/_next/static/css/89a4e6c517c78181.css","style"]
+0:{"buildId":"MJQy9-7Fg77TzZ02Ceh4d","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"shop","paramType":null,"paramKey":"shop","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],null]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","link","0",{"rel":"icon","href":"/sukiscroll-store/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L7","1",{}]]
