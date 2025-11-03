@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": ".next/static",
+    "cleanUrls": true,
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [
+      {
+        "source": "**",
+        "function": "nextServer"
+      }
+    ]
+  },
+  "functions": {
+    "source": ".next/server",
+    "runtime": "nodejs20"
+  }
+}
